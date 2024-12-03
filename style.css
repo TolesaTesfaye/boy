@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(218, 232, 235);
+    color:black  
+}
+h1{
+    color: rgb(209, 177, 249);
+    font-family:arial;
+}
+p{ 
+    color: rgb(37, 6, 66);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+video{
+    vertical-align: super;
+}
