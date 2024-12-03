@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main( )
+ {        
+  int sum=0;
+  for(int i=1;i<=100;i++)
+	{
+     sum=sum+i;
+    }
+  cout<<sum;
+  cout<<"this is the another code block";
+  return 0;
+ }
